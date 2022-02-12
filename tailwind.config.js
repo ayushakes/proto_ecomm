@@ -3,8 +3,9 @@ module.exports = {
   darkMode: false,
 
   theme: {
+
     minHeight: {
-      "60vh": "60vh",
+      "60vh": "60vh",  // now can be used as min-h-60vh
     },
   },
   variants: {},
